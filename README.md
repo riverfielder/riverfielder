@@ -1,4 +1,18 @@
 <!-- Cartoon-style Backend Engineer homepage by Copilot -->
+
+<p align="left">
+  <img align="right" src="assets/eastlake.jpg" alt="East Lake" width="280" style="border-radius: 15px;" />
+</p>
+
+### 🌊 *"East Lake whispers, West Mountain answers"* 🏔️
+
+#### **"东湖吻，西山爱"**
+
+*— riverfielder*
+
+
+<br clear="right"/>
+
 <div align="center">
   
   # 🐾 Backend Engineer (Storage & Databases)
@@ -17,16 +31,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" title="Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" title="Linux" />
+  <img src="assets/rocksdb.png" width="32" title="RocksDB" />
+  <img src="assets/hbase.png" width="66" title="HBase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" title="GitHub" />
 </div>
 
----
+
 
 ## 🎓 Education
 
-- <img src="https://raw.githubusercontent.com/riverfielder/riverfielder/master/assets/wuhan-university.png" width="24" alt="WHU" /> Wuhan University · B.Eng. in Computer Science and Technology · 2022.09–2026.06
+- <img src="assets/whulogo.svg" width="24" alt="WHU" />  Wuhan University · B.Eng. in Computer Science and Technology · 2022.09–2026.06
 
----
+
 
 ## 🛠️ Skills
 
@@ -40,28 +56,29 @@
 - **Systems Fundamentals**: Computer Architecture, Networking, OS, Data Structures; daily Linux, kernel basics
 - **Storage & Databases**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20"/> Redis, HBase; Understanding of single-node storage engine of LSM-Tree, RocksDB
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20"/> Redis,
+  <img src="assets/hbase.png" width="60"/> HBase; Understanding of single-node storage engine of LSM-Tree,
+  <img src="assets/rocksdb.png" width="20"/> RocksDB
 - **Distributed Systems**: Object storage & KV; gRPC, MQ; Understanding of Paxos, Raft, Gossip consistency principles
 - **Engineering Practice**: Code review, release workflow, production-grade dev
 
----
 
 ## 🏆 Experience & Activities
 
 - 🧑‍🏫 Teaching Assistant (twice) for “Advanced Programming (C++)”
-- 🎓 ByteDance Youth Training Camp (2024): Douyin backend project
-- 🏅 Alibaba OceanBase Database Competition (2024): Top 60 (China)
+- 🎓 ByteDance Youth Training Camp (2024)
+- 🏅 Alibaba OceanBase Database Competition (2024)
 
----
+
 
 ## ✉️ Contact
 
 - 📫 Email: `tianyang17466@qq.com`
 
----
+
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riverfielder/riverfielder/master/assets/rainbow-dino.gif" width="100" alt="Monkey D. Luffy" />
+  <img src="assets/lufei.png" width="100" alt="Monkey D. Luffy" style="border-radius: 15px;" />
   <br>
   <em>“おれは海賊王になる”</em>
 </div>
