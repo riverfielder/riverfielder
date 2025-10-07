@@ -1,10 +1,9 @@
-<!-- 卡通风格 Backend Engineer 主页 by Copilot -->
+<!-- Cartoon-style Backend Engineer homepage by Copilot -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riverfielder/riverfielder/master/assets/cat-coding.gif" width="120" alt="卡通猫猫编程" />
   
   # 🐾 Backend Engineer (Storage & Databases)
 
-  我热衷于系统、存储与数据库内核。<br>
+  I am passionate about systems, storage, and database internals.<br>
   <strong>I’m an undergraduate in Computer Science and Technology at Wuhan University.<br>
   Looking for backend roles focused on storage systems and databases.</strong>
   <br/><br/>
@@ -41,8 +40,8 @@
 - **Systems Fundamentals**: Computer Architecture, Networking, OS, Data Structures; daily Linux, kernel basics
 - **Storage & Databases**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20"/> Redis, HBase; LSM-Tree, RocksDB 单节点存储引擎理解
-- **Distributed Systems**: 对象存储 & KV; gRPC, MQ; 理解 Paxos, Raft, Gossip 一致性原理
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20"/> Redis, HBase; Understanding of single-node storage engine of LSM-Tree, RocksDB
+- **Distributed Systems**: Object storage & KV; gRPC, MQ; Understanding of Paxos, Raft, Gossip consistency principles
 - **Engineering Practice**: Code review, release workflow, production-grade dev
 
 ---
@@ -62,7 +61,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riverfielder/riverfielder/master/assets/rainbow-dino.gif" width="100" alt="彩虹恐龙" />
+  <img src="https://raw.githubusercontent.com/riverfielder/riverfielder/master/assets/rainbow-dino.gif" width="100" alt="Monkey D. Luffy" />
   <br>
-  <em>“让代码，变得有趣！”<br>—— riverfielder</em>
+  <em>“おれは海賊王になる”</em>
 </div>
