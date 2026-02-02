@@ -6,8 +6,6 @@
 
 ### 🌊 *"East Lake whispers, West Mountain answers"* 🏔️
 
-#### **"东湖吻，西山爱"**
-
 *— riverfielder*
 
 
